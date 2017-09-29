@@ -1,0 +1,4 @@
+D:\VoThanhPhat-14dh110094\bt1\bt1\bin\Debug\bt1.exe
+D:\VoThanhPhat-14dh110094\bt1\bt1\bin\Debug\bt1.pdb
+D:\VoThanhPhat-14dh110094\bt1\bt1\obj\x86\Debug\bt1.exe
+D:\VoThanhPhat-14dh110094\bt1\bt1\obj\x86\Debug\bt1.pdb
